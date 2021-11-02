@@ -5,6 +5,9 @@ Official Repo of my session on madBlocks IoT Suite powered by IEEE Vizag Bay Sec
 <img src="https://raw.githubusercontent.com/madblocksgit/ETAI-2021---VSSUT-11th-aug-iot-session/main/maddy.jpg" height="300" width="200" />
 Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group and Director & Strategist at Madblocks Technologies Pvt Ltd. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Whiteboard Link
+<a href="https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2YzZTFiYWQyOWY0ZDQwNWY4MDQ3YzQwNjk2NzI2NWJlX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9hZTYyNDk5ZC1lZTg5LTRmZTAtODhiZC02MmJiMmI4ODA4ZjA="> Access My Whiteboard </a>
+
 # Software
 1. Arduino [https://arduino.cc/]
 2. Thingspeak [https://thingspeak.com]
