@@ -16,15 +16,15 @@ https://dl.espressif.com/dl/package_esp32_index.json
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
 # On-Board Components
-LED - 4
-Buttons - 3
-LCD - 1
-DHT11 - 1
-Rainfall Sensor - 1
-Soil Moisture Sensor - 1
-LoRa - 1
-On-Board ESP32 MCU - 1
-USB Cable for Programming - 1
+1. LED - 4
+2. Buttons - 3
+3. LCD - 1
+4. DHT11 - 1
+5. Rainfall Sensor - 1
+6. Soil Moisture Sensor - 1
+7. LoRa - 1
+8. On-Board ESP32 MCU - 1
+9. USB Cable for Programming - 1
 
 # Pin Connections
 <table>
