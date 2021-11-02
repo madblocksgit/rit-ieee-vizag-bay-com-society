@@ -41,7 +41,7 @@ void loop() {
   if(e32.available()>1) {
     ResponseStructContainer rc=e32.receiveMessage(sizeof(myData));
     if(rc.status.code!=1) {
-      Serial.println(rc.status.getReponseDescription());
+      Serial.println(rc.status.getResponseDescription());
     } else {
       lcd.clear();
       lcd.print("Data Received");
