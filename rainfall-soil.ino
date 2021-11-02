@@ -17,6 +17,6 @@ void loop() {
  Serial.print(s);
  Serial.print(",Rainfall: ");
  int r=map(analogRead(rainfall),0,4095,100,0);
- Serial.print(r);  
+ Serial.println(r);  
  delay(2000);
 }
